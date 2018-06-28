@@ -15,6 +15,8 @@ https://onedrive.live.com/view.aspx?cid=deef5182bc117cda&page=view&resid=DEEF518
 * 古橋資料：
 https://speakerdeck.com/mapconcierge/20180630-di-17hui-gao-zhi-hukusiji-qi-zhan-hariahurihuesuteiharu2018
 
+<img src="https://github.com/furuhashilab/workshop20180630kochi/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202018-06-28%2014.55.03.png?raw=true" width="600px" />
+
 *　事前ミーティング議事録：
 https://docs.google.com/document/d/1Bic-OHrFQF-2K7ZEGN8Z8GWcc0LjdsbhY4mI42KDJQQ/edit#
 
