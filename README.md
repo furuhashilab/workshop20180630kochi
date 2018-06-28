@@ -1,5 +1,8 @@
 # workshop20180630kochi
 
+## DRONEBIRD動画
+* Vimeo: https://vimeo.com/148953757
+(mp4ファイルとしてダウンロード可能)
 
 ## 印刷用ポスター/配布資料
 ### DRONEBIRDポスター
