@@ -14,3 +14,7 @@ https://onedrive.live.com/view.aspx?cid=deef5182bc117cda&page=view&resid=DEEF518
 
 * 古橋資料：
 https://speakerdeck.com/mapconcierge/20180630-di-17hui-gao-zhi-hukusiji-qi-zhan-hariahurihuesuteiharu2018
+
+*　事前ミーティング議事録：
+https://docs.google.com/document/d/1Bic-OHrFQF-2K7ZEGN8Z8GWcc0LjdsbhY4mI42KDJQQ/edit#
+
